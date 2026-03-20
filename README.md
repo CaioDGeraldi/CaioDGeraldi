@@ -27,7 +27,7 @@ Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alber
 ### Conhecimentos:
 * Desenvolvimento FrontEnd: HTML, CSS
 * Desenvolvimento BackEnd: Python, PhP, mySQL
-* Ingles Nivel C1
+* Inglês Nivel C1
 
 </td>
 <td width="50%">
