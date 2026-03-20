@@ -2,10 +2,6 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="🇧🇷" width="30"/> *Em português* <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/> *Summary available at the end of the portuguese section*
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaioDGeraldi&label=Profile%20Views&color=9b59b6&style=for-the-badge" alt="Profile views" />
-</p>
-
 
 # Sobre mim
 
