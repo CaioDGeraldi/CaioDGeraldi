@@ -9,7 +9,7 @@
 Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alberto Feres). Atualmente, estou focado em aprofundar meu conhecimento em Python e em fundamentais essenciais de programação, visando uma carreira de programação BackEnd com Python.
 
 ## Conhecimentos e Progresso de estudo:
-### [**Documento de Conhecimento**](https://github.com/CaioDGeraldi/knowledge_doc) <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/>
+### [**Documento de Conhecimento**](https://github.com/CaioDGeraldi/knowledge_doc) <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="🇧🇷" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/> 
 * Um repositório para documentar meu percurso de aprendizagem e referências técnicas.
  
 ## Projetos principais:
@@ -46,8 +46,8 @@ Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alber
 
 ## Contato
 
-- **E-mail**: chdgeraldi@gmail.com
-- **GitHub**: github.com/CaioDGeraldi
+- [**E-mail**: chdgeraldi@gmail.com](mailto:chdgeraldi@gmail.com)
+- **GitHub**: [github.com/CaioDGeraldi](https://github.com/CaioDGeraldi)
 
 ---
 
@@ -101,5 +101,5 @@ I am **Caio Darin Geraldi**, a Systems Development student at **AMS Etec Alberto
 
 ## Contact
 
-- **Email**: [chdgeraldi@gmail.com](mailto:chdgeraldi@gmail.com)
+- [**E-mail**: chdgeraldi@gmail.com](mailto:chdgeraldi@gmail.com)
 - **GitHub**: [github.com/CaioDGeraldi](https://github.com/CaioDGeraldi)
