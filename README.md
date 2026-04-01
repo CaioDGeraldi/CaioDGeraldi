@@ -18,36 +18,28 @@ Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alber
 ### [**Django Wizard**](https://github.com/CaioDGeraldi/Wizard_Django)
 * É uma ferramenta de automação de ambiente desenvolvida em Python. O objetivo deste software é simplificar a inicialização de projetos Django, automatizando tarefas repetitivas de terminal através de uma interface gráfica intuitiva.
 
-### [**Fractaw**](https://github.com/CaioDGeraldi/Fractaw)
-* É uma plataforma SaaS de gestão para depósitos de bebida de pequeno e médio porte, focada em simplificar operações e automatizar o fluxo completo de venda → separação → entrega → cobrança, integrando ERP, logística e e-commerce B2B em um único sistema.
+### [**Fractaw**](https://github.com/CaioDGeraldi/FractawModules)
+* É um ecossistema modular de gestão empresarial (ERP Modular) projetado para eliminar a complexidade de sistemas tradicionais, focado em fragmentar processos robustos em interfaces intuitivas e independentes que automatizam o ciclo operacional completo — desde o controle financeiro e contábil até a inteligência logística e CRM — permitindo que empresas de diferentes portes escalem sua gestão de forma ágil, integrada e sem fricção tecnológica.
 
 ---
-
-<table align="center">
-<tr>
-<td width="50%">
-  
 ### Conhecimentos:
-* **Desenvolvimento FrontEnd**: HTML, CSS
-* **Desenvolvimento BackEnd**: Python, PhP, mySQL
-* **Linguas**: Inglês (Nivel C1) | Português (Fluência)
-
-</td>
-<td width="50%">
+| FrontEnd | BackEnd | Línguas |
+| :--- | :---: | ---: |
+| HTML | Python | Português (Fluência) |
+| CSS | mySQL | Inglês (Nível C1) |
+|Bootstrap | PhP | -
 
 ### Metas
-* Aprofundar conhecimento em BackEnd e em fundamentos essenciais de programação.
-* Encontrar meu nicho tecnológico.
-* Promover e entender soluções tecnológicas essenciais.
+| FrontEnd | BackEnd | Metas futuras |
+| :--- | :---: | ---: |
+| Aprender: Tailwind | Aprimorar: Python | Entender todos os <br> conceitos da lógica de programação |
+| Aprimorar: CSS | Aprimorar: mySQL | Inglês (Fluência) |
 
-</td>
-</tr>
-</table>
+## Links | Contato
 
-## Contato
-
-- [**E-mail**: chdgeraldi@gmail.com](mailto:chdgeraldi@gmail.com)
+- **E-mail**: [chdgeraldi@gmail.com](mailto:chdgeraldi@gmail.com)
 - **GitHub**: [github.com/CaioDGeraldi](https://github.com/CaioDGeraldi)
+- **LinkedIn**: [linkedin.com/in/caio-geraldi/](https://www.linkedin.com/in/caio-geraldi/)
 
 ---
 
@@ -65,35 +57,28 @@ I am **Caio Darin Geraldi**, a Systems Development student at **AMS Etec Alberto
 ### [Django Wizard](https://github.com/CaioDGeraldi/Wizard_Django)
 * An environment automation tool developed in **Python**. The objective of this software is to simplify Django project initialization by automating repetitive terminal tasks through an intuitive graphical interface.
 
-### [Fractaw](https://github.com/CaioDGeraldi/Fractaw)
-* A **SaaS management platform** for small and medium-sized beverage distributors, focused on simplifying operations and automating the complete flow from *Sale → Sorting → Delivery → Billing*, integrating ERP, logistics, and B2B e-commerce into a single system.
+### [FractawModules](https://github.com/CaioDGeraldi/FractawModules)
+* A modular enterprise resource planning (ERP) ecosystem designed to eliminate the complexity of traditional systems, focused on robust fragmented processes within intuitive and independent interfaces that automate the complete operational cycle — from financial and accounting control to logistics intelligence and CRM — allowing companies of all sizes to scale their management in an agile, integrated, and frictionless technological way.
 
 ---
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### Skills
-* **Backend Development:** Python, PHP, MySQL
-* **Frontend Development:** HTML, CSS
-* **Languages:** English (C1 Level) | Portuguese (Fluency)
-
-</td>
-<td width="50%" valign="top">
+### Knowledge:
+| FrontEnd | BackEnd | Languages |
+| :--- | :---: | ---: |
+| HTML | Python | Portuguese (Fluency) |
+| CSS | mySQL | English (Nível C1) |
+|Bootstrap | PhP | -
 
 ### Goals
-* Deepen knowledge in Backend and essential programming fundamentals.
-* Find my specific technological niche.
-* Promote and learn essential technological solutions.
-
-</td>
-</tr>
-</table>
+| FrontEnd | BackEnd | Future |
+| :--- | :---: | ---: |
+| Learn: Tailwind | Deepen: Python | Understand all the conceps <br>about programation logics |
+| Deepen: CSS | Deepen: mySQL | English (Fluency) |
 
 ---
 
-## Contact
+## Links | Contact
 
-- [**E-mail**: chdgeraldi@gmail.com](mailto:chdgeraldi@gmail.com)
+- **E-mail**: [chdgeraldi@gmail.com](mailto:chdgeraldi@gmail.com)
 - **GitHub**: [github.com/CaioDGeraldi](https://github.com/CaioDGeraldi)
+- **LinkedIn**: [linkedin.com/in/caio-geraldi/](https://www.linkedin.com/in/caio-geraldi/)
