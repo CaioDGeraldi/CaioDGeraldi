@@ -8,10 +8,8 @@
 
 Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alberto Feres). Atualmente, estou focado em aprofundar meu conhecimento em Python e em fundamentais essenciais de programação, visando uma carreira de programação BackEnd com Python.
 
-## Conhecimentos e Progresso de estudo:
-### [**Documento de Conhecimento**](https://github.com/CaioDGeraldi/knowledge_doc) 
-* Um repositório para documentar meu percurso de aprendizagem e referências técnicas.
- 
+---
+
 ## Projetos principais:
 
 ### [**Tutorial Django**](https://github.com/CaioDGeraldi/Tutorial-Django)
@@ -22,6 +20,8 @@ Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alber
 
 ### [**Fractaw**](https://github.com/CaioDGeraldi/Fractaw)
 * É uma plataforma SaaS de gestão para depósitos de bebida de pequeno e médio porte, focada em simplificar operações e automatizar o fluxo completo de venda → separação → entrega → cobrança, integrando ERP, logística e e-commerce B2B em um único sistema.
+
+---
 
 <table align="center">
 <tr>
@@ -54,12 +54,6 @@ Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alber
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/> About Me
 
 I am **Caio Darin Geraldi**, a Systems Development student at **AMS Etec Alberto Feres**. Currently, I am focused on deepening my knowledge in **Python** and core programming fundamentals, aiming for a career in **Backend Development**.
-
----
-
-### Knowledge and Study Progress
-[**Knowledge Documentation**](https://github.com/CaioDGeraldi/knowledge_doc) <br>
-* A centralized repository for documenting my learning path and technical references.
 
 ---
 
