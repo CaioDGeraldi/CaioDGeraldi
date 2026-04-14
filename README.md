@@ -1,4 +1,4 @@
-![Stack](https://skillicons.dev/icons?i=python,git,mysql,php,html,css&theme=light)
+![Stack](https://skillicons.dev/icons?i=python,django,git,mysql,php,html,css&theme=light)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="🇧🇷" width="30"/> *Em português* <br>
 
