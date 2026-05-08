@@ -8,6 +8,29 @@
 
 Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alberto Feres). Atualmente, estou focado em aprofundar meu conhecimento em Python e em fundamentais essenciais de programação, visando uma carreira de programação BackEnd com Python.
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioDGeraldi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CAIODGERALDI&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDGeraldi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CaioDGeraldi&theme=tokyonight&no-frame=true" alt="CaioDGeraldi Github Trophies" />
+  </a>
+</p>
+
+</div>
+
+---
 ---
 
 ## Projetos principais:
@@ -46,6 +69,16 @@ Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alber
 # <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/> About Me
 
 I am **Caio Darin Geraldi**, a Systems Development student at **AMS Etec Alberto Feres**. Currently, I am focused on deepening my knowledge in **Python** and core programming fundamentals, aiming for a career in **Backend Development**.
+
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CaioDGeraldi&theme=tokyonight&no-frame=true" alt="CaioDGeraldi Github Trophies" />
+  </a>
+</p>
+
+</div>
 
 ---
 
