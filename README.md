@@ -10,11 +10,10 @@ Sou Caio Darin Geraldi, estudante de Desenvolvimento de Sistemas (AMS Etec Alber
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioDGeraldi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CAIODGERALDI&theme=tokyonight&hide_border=true&background=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDGeraldi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
