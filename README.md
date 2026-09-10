@@ -90,7 +90,7 @@ Durante meu estágio na **Soma Soluções**, tive experiência profissional com 
 
 ---
 
-## 🚀 Projetos em produção
+## 🚀 Projetos em Desenvolvimento
 
 ### 🧩 Fractaw Modules
 
