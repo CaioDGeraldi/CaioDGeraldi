@@ -103,18 +103,6 @@ Projeto experimental de uma IDE **local-first**, utilizando Markdown como fonte 
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=CaioDGeraldi&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaioDGeraldi&layout=compact&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌐 Contato
