@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>Delphi</title>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <circle cx="128" cy="128" r="78" fill="#A81C21"/>
+  <path fill="#fff" d="M95 78h34c34 0 57 19 57 50 0 32-23 50-57 50H95V78zm32 24h-7v52h7c21 0 33-9 33-26 0-17-12-26-33-26z"/>
+  <path d="M79 181c26 16 72 19 101-4" stroke="#D85A5E" stroke-width="8" stroke-linecap="round"/>
+</svg>
