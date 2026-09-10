@@ -4,7 +4,7 @@
 
 ### Desenvolvedor de Software • Back-end • Engenharia de Software
 
-🎓 **Técnico em Desenvolvimento de Sistemas — ETEC Alberto Feres | AMS**
+🎓 Cursando **Técnico em Desenvolvimento de Sistemas — ETEC Alberto Feres | AMS**
 
 💻 Foco em **back-end, arquitetura, modularidade e qualidade de software**
 
@@ -49,6 +49,9 @@ Busco construir aplicações que não apenas funcionem, mas que sejam **modulare
 <img src="https://skillicons.dev/icons?i=js,ts,react,postgres,docker,linux,rust,svelte" alt="Tecnologias em estudo" />
 
 </div>
+
+### 📖 Lendo atualmente: 
+* Código Limpo - Habilidades Práticas do Agile Software (Robert C. Martin)
 
 ---
 
