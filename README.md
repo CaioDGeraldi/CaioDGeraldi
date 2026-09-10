@@ -111,6 +111,10 @@ Projeto experimental de uma IDE **local-first**, utilizando Markdown como fonte 
   <img src="https://img.shields.io/badge/LinkedIn-Caio%20Geraldi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<a href="mailto:chdgeraldi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-chdgeraldi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 <br><br>
 
 **Construindo software com foco em arquitetura, modularidade e evolução sustentável.**
