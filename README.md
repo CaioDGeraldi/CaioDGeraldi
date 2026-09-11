@@ -94,7 +94,7 @@ Durante meu estágio na **Soma Soluções**, tive experiência profissional com 
 
 ### 🧩 Fractaw Modules
 
-ERP modular desenvolvido com foco em **Django, Engenharia de Software e arquitetura modular**.
+ERP modular multi-vertente desenvolvido em Django**.
 
 `Python` · `Django` · `Arquitetura Modular` · `Modelagem de Domínio`
 
