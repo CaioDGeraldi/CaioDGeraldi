@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/GitHub-CaioDGeraldi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<a href="https://caiodgeraldi.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-GitHub%20Pages-F4B942?style=for-the-badge&logo=githubpages&logoColor=1E2327" alt="Portfólio" />
+</a>
+
 </div>
 
 ---
