@@ -59,6 +59,20 @@ Busco construir aplicações que não apenas funcionem, mas que sejam **modulare
 
 ---
 
+## 🚀 Projetos
+
+### Retorna — Plataforma de Fidelidade Multiempresa
+
+Plataforma de fidelidade desenvolvida para o **Data System Challenge**, projetada para integrar sistemas de venda a um programa de benefícios configurável por meio de API.
+
+O projeto foi estruturado como um **monólito modular em Django**, com separação entre domínio, services, persistência e interfaces. Possui suporte a múltiplas empresas e lojas, geração e expiração de pontos, campanhas, níveis de fidelidade, resgates, estornos, dashboards, área do cliente e auditoria.
+
+`Python` · `Django` · `Django REST Framework` · `PostgreSQL` · `OpenAPI` · `JavaScript` · `Sass` · `Chart.js` · `GitHub Actions` · `Heroku`
+
+**Destaques:** arquitetura multiempresa · API REST · regras de fidelidade configuráveis · idempotência · transações e concorrência · auditoria PostgreSQL · testes automatizados · CI/CD
+
+[🔗 Repositório](https://github.com/CaioDGeraldi/DataSystemChallenge)
+
 ## 💼 Experiência profissional
 
 ### Soma Soluções — Estágio em Desenvolvimento de Sistemas
