@@ -1,25 +1,48 @@
 <div align="center">
 
-# Caio Darin Geraldi
+<sub>SOFTWARE ENGINEERING · BACKEND DEVELOPMENT</sub>
 
-**Backend Software Developer | Python · Django · PostgreSQL**
+<h1>Caio Darin Geraldi</h1>
 
-Based in Brazil · Open to international software engineering opportunities
+<p><strong>Python · Django · PostgreSQL</strong></p>
 
-### Portfolio / Portfólio
+<p>
+  Software development student and backend developer based in Brazil.<br>
+  Interested in domain-driven design, data integrity, testing and maintainable systems.
+</p>
 
-I keep my experience, projects and technical case studies in one place.
+<p>
+  <a href="https://caiodgeraldi.github.io/Portfolio/?lang=en&source=github">
+    <img src="https://img.shields.io/badge/Explore%20portfolio-English-F4B942?style=for-the-badge&logo=githubpages&logoColor=1E2327&labelColor=1E2327" alt="Explore my portfolio in English">
+  </a>
+  <a href="https://caiodgeraldi.github.io/Portfolio/?lang=pt-BR&source=github">
+    <img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-Portugu%C3%AAs-4FA7A3?style=for-the-badge&logo=githubpages&logoColor=ffffff&labelColor=1E2327" alt="Ver meu portfólio em português">
+  </a>
+</p>
 
-**[Explore my portfolio in English](https://caiodgeraldi.github.io/Portfolio/?lang=en&source=github)**
-
-**[Conheça meu portfólio em português](https://caiodgeraldi.github.io/Portfolio/?lang=pt-BR&source=github)**
-
-[LinkedIn](https://www.linkedin.com/in/caio-geraldi/) · [Code repositories](https://github.com/CaioDGeraldi?tab=repositories)
+<p>
+  <a href="https://www.linkedin.com/in/caio-geraldi/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:chdgeraldi@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/CaioDGeraldi?tab=repositories&type=public">Repositories</a>
+</p>
 
 </div>
 
 ---
 
-**Featured code:** [Retorna (Django + PostgreSQL)](https://github.com/CaioDGeraldi/DataSystemChallenge) · [Portfolio source](https://github.com/CaioDGeraldi/Portfolio)
+### Selected engineering work
 
-The portfolio automatically uses the URL language when provided, otherwise your saved preference or browser language. You can always switch between English and Portuguese on the site.
+<table>
+  <tr>
+    <td><strong><a href="https://github.com/CaioDGeraldi/DataSystemChallenge">Retorna</a></strong><br><sub>Django · PostgreSQL · REST API</sub></td>
+    <td>Collaborative loyalty-platform project focused on transactional integrity, idempotency, concurrency tests and CI. <a href="https://github.com/CaioDGeraldi/DataSystemChallenge/blob/47eb9be8c2f061de29e043bed41bdc33d11083f2/docs/RECRUITER_CASE_STUDY.md">Technical case study</a>.</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/CaioDGeraldi/Kambio">Kambio</a></strong><br><sub>Delphi · Object Pascal</sub></td>
+    <td>Desktop exchange application built as a software development learning project.</td>
+  </tr>
+</table>
+
+<sub>For projects, education, professional experience and contact details, visit the <a href="https://caiodgeraldi.github.io/Portfolio/?lang=en&source=github">portfolio</a>. It supports English and Portuguese.</sub>
