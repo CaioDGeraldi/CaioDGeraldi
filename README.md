@@ -1,143 +1,59 @@
 <div align="center">
 
-# 👋 Olá, sou Caio Darin Geraldi
+# Caio Darin Geraldi
 
-### Desenvolvedor de Software • Back-end • Engenharia de Software
+**Backend Software Developer | Python · Django · PostgreSQL**
 
-🎓 Cursando **Técnico em Desenvolvimento de Sistemas — ETEC Alberto Feres | AMS**
+Based in Brazil · Open to international software engineering opportunities
 
-💻 Foco em **back-end, arquitetura, modularidade e qualidade de software**
-
-🧠 Gosto de entender não apenas **como** uma tecnologia funciona, mas também **por que** utilizá-la e quais decisões de engenharia existem por trás dela.
-
-<br>
-
-<a href="https://www.linkedin.com/in/caio-geraldi/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Caio%20Geraldi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/CaioDGeraldi">
-  <img src="https://img.shields.io/badge/GitHub-CaioDGeraldi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://caiodgeraldi.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-GitHub%20Pages-F4B942?style=for-the-badge&logo=githubpages&logoColor=1E2327" alt="Portfólio" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/caio-geraldi/) · [Portfolio](https://caiodgeraldi.github.io/Portfolio/) · [GitHub](https://github.com/CaioDGeraldi)
 
 </div>
 
----
+## About
 
-## 👨‍💻 Sobre mim
+I am a software development student at **ETEC Alberto Feres (AMS)**, focused on backend engineering, relational databases and software architecture. I enjoy working through domain rules, data integrity, automated testing and the trade-offs behind maintainable systems.
 
-Sou estudante de **Desenvolvimento de Sistemas** com interesse principal em **Engenharia de Software e desenvolvimento back-end**.
+My professional experience includes an internship at **Soma Soluções**, working with Delphi / Object Pascal and Oracle Database.
 
-Busco construir aplicações que não apenas funcionem, mas que sejam **modulares, bem estruturadas, documentadas, testáveis e preparadas para evoluir**.
+## Featured work
 
----
+### [Retorna — Multi-company loyalty platform](https://github.com/CaioDGeraldi/DataSystemChallenge)
 
-## 🛠️ Tecnologias que utilizo
+A **team project** developed for the Data System Challenge. Retorna integrates sales systems with configurable loyalty rules using a modular Django application, PostgreSQL and a versioned REST API.
 
-<div align="center">
+- **Business logic:** purchases, point accrual and expiry, promotions, tiers, redemptions and reversals.
+- **Data integrity:** transaction boundaries, idempotent operations and concurrency control using PostgreSQL advisory locks and row-level locks.
+- **Testing:** automated Django/DRF tests, including PostgreSQL-backed concurrency scenarios; separate backend and frontend CI jobs.
+- **Architecture:** domain services, database constraints, API boundaries and documented design decisions.
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,mysql,git,github" alt="Tecnologias que utilizo" />
+**Code and evidence:** [Redemption service](https://github.com/CaioDGeraldi/DataSystemChallenge/blob/main/apps/fidelidade/resgates.py) · [Concurrency tests](https://github.com/CaioDGeraldi/DataSystemChallenge/blob/main/apps/fidelidade/test_concorrencia_resgates.py) · [Successful CI run](https://github.com/CaioDGeraldi/DataSystemChallenge/actions/runs/36492776096)
 
-</div>
+The project's documentation describes collaborative development and the use of AI assistance. I aim to make architectural decisions and their validation understandable and reviewable.
 
----
+### [Kambio — Desktop exchange application](https://github.com/CaioDGeraldi/Kambio)
 
-## 📚 Estudando e aprofundando
+A learning project built with **Delphi / Object Pascal and FireMonkey**, exploring desktop application design and data-driven workflows.
 
-<div align="center">
+### [Portfolio website](https://github.com/CaioDGeraldi/Portfolio)
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,postgres,docker,linux,rust,svelte" alt="Tecnologias em estudo" />
+Personal website built with HTML, CSS, JavaScript and Three.js. [View the site](https://caiodgeraldi.github.io/Portfolio/).
 
-</div>
+### Fractaw Modules (private, in development)
 
-### 📖 Lendo atualmente: 
-* Código Limpo - Habilidades Práticas do Agile Software (Robert C. Martin)
+A modular business-management platform built around Django and PostgreSQL, with a focus on domain boundaries and enterprise-specific capabilities. The source repository is currently private.
 
----
+## Technologies
 
-## 🚀 Projetos
+**Hands-on:** Python, Django, Django REST Framework, PostgreSQL, SQL, Delphi / Object Pascal, Oracle Database, Git, GitHub Actions, HTML and CSS.
 
-### Retorna — Plataforma de Fidelidade Multiempresa
+**Currently expanding:** TypeScript, React, Docker, Linux, Rust and Svelte.
 
-Plataforma de fidelidade desenvolvida para o **Data System Challenge**, projetada para integrar sistemas de venda a um programa de benefícios configurável por meio de API.
+## Education and experience
 
-O projeto foi estruturado como um **monólito modular em Django**, com separação entre domínio, services, persistência e interfaces. Possui suporte a múltiplas empresas e lojas, geração e expiração de pontos, campanhas, níveis de fidelidade, resgates, estornos, dashboards, área do cliente e auditoria.
+- **Technical Program in Systems Development**, ETEC Alberto Feres (AMS), in progress.
+- **Systems Development Intern**, Soma Soluções: experience with Delphi / Object Pascal and Oracle Database.
 
-`Python` · `Django` · `Django REST Framework` · `PostgreSQL` · `OpenAPI` · `JavaScript` · `Sass` · `Chart.js` · `GitHub Actions` · `Heroku`
+## Contact
 
-**Destaques:** arquitetura multiempresa · API REST · regras de fidelidade configuráveis · idempotência · transações e concorrência · auditoria PostgreSQL · testes automatizados · CI/CD
-
-[🔗 Repositório](https://github.com/CaioDGeraldi/DataSystemChallenge)
-
-## 💼 Experiência profissional
-
-### Soma Soluções — Estágio em Desenvolvimento de Sistemas
-
-Durante meu estágio na **Soma Soluções**, tive experiência profissional com desenvolvimento e manutenção de sistemas utilizando **Delphi / Object Pascal** e **Oracle Database**.
-
-<div align="center">
-
-<img src="./assets/skills/oracle-dark.svg" width="48" height="48" alt="Oracle Database" />
-&nbsp;
-<img src="./assets/skills/delphi-dark.svg" width="48" height="48" alt="Delphi" />
-
-<br>
-
-<sub>Oracle Database &nbsp;•&nbsp; Delphi / Object Pascal</sub>
-
-</div>
-
----
-
-## 🧠 Áreas de interesse
-
-- Engenharia de Software
-- Arquitetura de Software
-- Desenvolvimento Back-end
-- Sistemas Modulares
-- Modelagem de Domínio
-- Engenharia de Requisitos
-- Banco de Dados
-- Testes e Qualidade de Software
-- Linux e Infraestrutura
-- Inteligência Artificial aplicada ao desenvolvimento
-
----
-
-## 🚀 Projetos em Desenvolvimento
-
-### 🧩 Fractaw Modules
-
-ERP modular multi-vertente desenvolvido em Django**.
-
-`Python` · `Django` · `Arquitetura Modular` · `Modelagem de Domínio`
-
-### 📝 Intelligent Markdown IDE
-
-Projeto experimental de uma IDE **local-first**, utilizando Markdown como fonte de verdade e explorando arquitetura de software, Git nativo e integração com IA local.
-
-`Rust` · `Tauri` · `Svelte` · `TypeScript` · `SQLite` · `Git`
-
----
-
-<div align="center">
-
-### 🌐 Contato
-
-<a href="https://www.linkedin.com/in/caio-geraldi/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Caio%20Geraldi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:chdgeraldi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-chdgeraldi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br><br>
-
-**Construindo software com foco em arquitetura, modularidade e evolução sustentável.**
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/caio-geraldi/) · [Portfolio](https://caiodgeraldi.github.io/Portfolio/)
