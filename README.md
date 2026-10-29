@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td><strong><a href="https://github.com/CaioDGeraldi/DataSystemChallenge">Retorna</a></strong><br><sub>Django · PostgreSQL · REST API</sub></td>
-    <td>Collaborative loyalty-platform project focused on transactional integrity, idempotency, concurrency tests and CI. <a href="https://github.com/CaioDGeraldi/DataSystemChallenge/blob/main/docs/RECRUITER_CASE_STUDY.md">Technical case study</a>.</td>
+    <td>Collaborative loyalty-platform project focused on transactional integrity, idempotency, concurrency tests and CI. <a href="https://github.com/CaioDGeraldi/DataSystemChallenge/blob/47eb9be8c2f061de29e043bed41bdc33d11083f2/docs/RECRUITER_CASE_STUDY.md">Technical case study</a>.</td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/CaioDGeraldi/Kambio">Kambio</a></strong><br><sub>Delphi · Object Pascal</sub></td>
