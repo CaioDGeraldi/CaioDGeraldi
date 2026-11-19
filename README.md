@@ -39,6 +39,10 @@
     <td><strong><a href="https://github.com/CaioDGeraldi/DataSystemChallenge">Retorna</a></strong><br><sub>Django · PostgreSQL · REST API</sub></td>
     <td>Collaborative loyalty-platform project focused on transactional integrity, idempotency, concurrency tests and CI. <a href="https://caiodgeraldi.github.io/Portfolio/projects/retorna.html?lang=en">Technical case study</a>.</td>
   </tr>
+    <tr>
+      <td><strong><a href="https://github.com/CaioDGeraldi/inova-araras-19-11-2026">Centro em Movimento</a></strong><br><sub>Winner · 1st Inova Araras 2026 · Product design</sub></td>
+      <td>A public-innovation proposal for Araras' commercial centre. Vem pro Centro connects local business discovery, routes, shared loyalty and in-person visits. <a href="https://caiodgeraldi.github.io/Portfolio/projects/centro-em-movimento.html?lang=en">Project case study</a>.</td>
+    </tr>
 </table>
 
 <sub>For projects, education, professional experience and contact details, visit the <a href="https://caiodgeraldi.github.io/Portfolio/?lang=en&source=github">portfolio</a>. It supports English and Portuguese.</sub>
